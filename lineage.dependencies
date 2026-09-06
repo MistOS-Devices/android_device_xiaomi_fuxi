@@ -9,25 +9,25 @@
     "repository": "MistOS-Devices/device_xiaomi_sm8550-common",
     "target_path": "device/xiaomi/sm8550-common",
     "remote": "github",
-    "branch": "17.0"
+    "branch": "17"
   },
   {
     "repository": "MistOS-Devices/kernel_xiaomi_sm8550",
     "target_path": "kernel/xiaomi/sm8550",
     "remote": "github",
-    "branch": "17.0"
+    "branch": "17"
   },
   {
     "repository": "MistOS-Devices/kernel_xiaomi_sm8550-modules",
     "target_path": "kernel/xiaomi/sm8550-modules",
     "remote": "github",
-    "branch": "17.0"
+    "branch": "17"
   },
   {
     "repository": "MistOS-Devices/kernel_xiaomi_sm8550-devicetrees",
     "target_path": "kernel/xiaomi/sm8550-devicetrees",
     "remote": "github",
-    "branch": "17.0"
+    "branch": "17"
   },
   {
     "repository": "MistOS-Devices/vendor_xiaomi_fuxi",
